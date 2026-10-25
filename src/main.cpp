@@ -4,7 +4,7 @@
 int main()
 {
    srand(time(nullptr));
-   std::cout << "CLI note-taking tool by chalcinxx.\n";
+   std::cout << "CLI note-taking application.\n";
    Catcher catcher;
 
    while (true)
